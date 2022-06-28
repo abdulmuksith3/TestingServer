@@ -1,0 +1,20 @@
+{
+  "requestdesks": [
+    {
+      "Id": "0d7bbc3b-0cbb-4811-8ecc-8e7f7b6eacab",
+      "Name": "Loan Request",
+      "iconName": "credit-card-clock-outline",
+      "iconType": "material-community",
+      "isManager":  false,
+      "Link": "https://uat.hrms.binyousef.qa/RequestForm/RenderForm?formId=0d7bbc3b-0cbb-4811-8ecc-8e7f7b6eacab"
+    },
+    {
+      "Id": "0d7bbc3b-0cbb-4811-drff-8e7f7b6eacab",
+      "Name": "Document Request",
+      "iconName": "document-text-outline",
+      "iconType": "ionicon",
+      "isManager": false,
+      "Link": "https://uat.hrms.binyousef.qa/RequestForm/RenderForm?formId=0d7bbc3b-0cbb-4811-drff-8e7f7b6eacab"
+    }
+  ]
+}
